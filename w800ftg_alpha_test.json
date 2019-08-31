@@ -1,5 +1,5 @@
 {
   "Enable": true,
-  "EnableNotice": "welcome!\npress space to continue",
-  "DisableNotice": "alpha test is not started."
+  "EnableNotice": "welcome!\npress SPACE to continue\n\n欢迎\n按空格继续",
+  "DisableNotice": "alpha test is not started.\n\n测试为开启"
 }
